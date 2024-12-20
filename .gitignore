@@ -1,0 +1,53 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+*.temp
+*.log
+
+# NuGet packages
+**/packages/
+*.nupkg
+# If you're using the new .NET Core/5+/SDK style projects, packages may be downloaded to a global folder, so no need to ignore them specifically here.
+
+# User-specific files
+*.userprefs
+*.localhistory/
+*.DS_Store
+
+# Publish and deploy files
+*.publishsettings
+*.PublishXml
+*.pubxml
+*.pubxml.user
+
+# Resharper / Rider files
+*.DotSettings.user
+_ReSharper*/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.cov
+*.coveragejson
+*.lcov
+
+# Temp configuration files
+appsettings.development.json

@@ -1,0 +1,9 @@
+﻿<!-- App.xaml -->
+<Application x:Class="Universal_Copilot.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Universal_Copilot">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
