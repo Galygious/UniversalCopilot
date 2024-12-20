@@ -1,0 +1,7 @@
+# Configuration for UniversalCopilot
+
+# The base address of the LLM server
+base_address = "http://localhost:1234"
+
+# The model name to use
+model_name = "qwen2.5-coder-3b-instruct@q4_0"
