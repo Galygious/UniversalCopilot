@@ -67,7 +67,7 @@ We welcome pull requests! To contribute code:
 ---
 
 ## Code of Conduct
-By contributing, you agree to adhere to the project’s [Code of Conduct](./docs/CODE_OF_CONDUCT.md). We aim to foster a welcoming and inclusive environment for all contributors.
+By contributing, you agree to adhere to the project’s [Code of Conduct](./CODE_OF_CONDUCT.md). We aim to foster a welcoming and inclusive environment for all contributors.
 
 ---
 
