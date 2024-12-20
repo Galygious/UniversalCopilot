@@ -36,12 +36,6 @@ For more in-depth usage instructions, see the [usage guide](./docs/usage.md).
 
 - [LM Studio](https://lmstudio.ai/) for hosting your local LLM.
 - [Microsoft .NET Documentation](https://docs.microsoft.com/dotnet/) for runtime and SDK details.
-- [Shields.io](https://shields.io/) to create more badges and enrich this README.
-
-## Less is More
-
-We keep this README short and focused. For more complex details—installation nuances, advanced configurations, and troubleshooting—refer to the linked documents above. As the project grows, you can expand the `/docs` directory with additional markdown files or consider setting up a dedicated documentation website.
-
 ---
 
 **Happy Coding!** With UniversalCopilot, you can unlock new levels of productivity and intelligence in your daily workflow, all while keeping your documentation organized and user-friendly.
