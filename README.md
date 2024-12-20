@@ -30,7 +30,7 @@ For more in-depth usage instructions, see the [usage guide](./docs/usage.md).
 - [Usage Guide](./docs/usage.md): More examples, common commands, and workflows.
 - [Advanced Topics](./docs/advanced.md): Customizing prompts, adding new actions, and integration tips.
 - [Contributing](./docs/CONTRIBUTING.md): Learn how to contribute to UniversalCopilot.
-- [Code of Conduct](./CODE_OF_CONDUCT.md): Standards we follow to create a welcoming community.
+- [Code of Conduct](./docs/CODE_OF_CONDUCT.md): Standards we follow to create a welcoming community.
 
 ## Useful Resources
 
