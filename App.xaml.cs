@@ -24,9 +24,10 @@ namespace Universal_Copilot
         {
             base.OnStartup(e);
 
-            string configPath = "menus.hcl";
+            string configPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "menus.hcl");
             var parser = new HclMenuParser();
             Menus = parser.Parse(configPath);
+
 
             if (Menus.Count == 0)
             {
